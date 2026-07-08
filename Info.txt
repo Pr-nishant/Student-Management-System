@@ -1,0 +1,3 @@
+Nishant,123,BSc Computer Science
+Priya,233,BSC Psychology
+Anamika Saini,678,BSc Computer Science
