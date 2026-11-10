@@ -1,6 +1,7 @@
 import os
 
-fli_p= fli_p = os.path.join(os.path.dirname(os.path.abspath(__file__)), "Info.txt")
+fli_p = os.path.join(os.path.dirname(os.path.abspath(__file__)), "Info.txt")
+
 class Student:
     def __init__(self, name, roll_no, course):
         self.name = name
